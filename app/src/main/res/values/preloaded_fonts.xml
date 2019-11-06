@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aclonica</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/give_you_glory</item>
+        <item>@font/karma_light</item>
+        <item>@font/macondo</item>
+        <item>@font/macondo_swash_caps</item>
+        <item>@font/pacifico</item>
+        <item>@font/rock_salt</item>
+        <item>@font/shanti</item>
+        <item>@font/snowburst_one</item>
+    </array>
+</resources>

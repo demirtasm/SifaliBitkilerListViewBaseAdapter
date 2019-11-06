@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bitki_ismi">
+        <item>Çörek otu</item>
+        <item>Adaçayı</item>
+        <item>Isırgan otu</item>
+        <item>Zencefil</item>
+        <item>Meyan kökü</item>
+        <item>Aloevera</item>
+        <item>Papatya</item>
+        <item>Sarımsak</item>
+        <item>Nane</item>
+        <item>Biberiye</item>
+        <item>Maydonoz</item>
+        <item>Karabaş otu</item>
+    </string-array>
+
+    <string-array name="bitki_vitamini">
+        <item>A,H,C,B1,B2,B6</item>
+        <item>C, B6, K</item>
+        <item>C</item>
+        <item>B3, B6</item>
+        <item>B</item>
+        <item>B1, B2, B3, B6 ve B12</item>
+        <item>A, C</item>
+        <item>A, B6, C</item>
+        <item>A</item>
+        <item>A, C</item>
+        <item>A, K, C ve E, B6, B12</item>
+        <item>A,  C</item>
+    </string-array>
+    <string-array name="bitkigenelOzellikleri">
+        <item>\tŞifası\n
+
+            Çörek otu kullanımı özellikle bağışıklık sistemini \n
+            güçlendirir.Çörek otunun antioksidan özelliği de söz\n
+            konusudur. İltihap oluşumunu engelleyici etkisi vardır.\n
+            Çörek otunun içerisinde iltihap önleyici madde \n
+            eklem iltihabı için oldukça yararlıdır.\n
+            Çörek otunun faydaları arasında meme kanseri ve\n
+            prostat yavaşlatıcı etkisi de vardır. \n
+            \t\tKaraciğeri koruması çörek otunun önde gelen \n
+            faydaları arasında gösterilmektedir,uzun yıllar önce\n
+            hayvanlar üzerinde yapılan bir deneyle\n
+            birlikte çörek otunun karaciğer kanserine\n
+            karşı koruyucu özellikleri tespit edilmiştir.\n\n
+            Çörek otunun faydaları arasında kandaki şeker miktarını \n
+            düşürücü etkisi vardır, insilün salgılamasını sağlayan\n
+            pankreasta beta hücrelerini harekete geçirdiği gözlemlenmiştir.\n\n
+
+
+            \tBu araştırmada bronşitli astım alerjik astım, \n
+            bahar nezlesi rahatsızlarına yönelik yapılan \n
+            çalışmada çörek otunun ciddi oranda fayda sağladığı\n
+            belirtilmiştir.\n
+            Mide konusunda da çörek otunun faydaları söz konusudur.\n
+            Mide zarını tahriş eden etkenlere karşı çörek otu,\n
+            mide zarını korur. Nefes darlığına karşı da etkili\n
+            olan çörek otu, nefes borusu adalesini genişletmeye\n
+            etkisinden dolayı nefes darlığı problemine karşı da\n
+            yarar sağlamaktadır.\n\n
+            \tÇörek otunun en önemli faydaları arasında kalp \n
+            sağlığını korucu etkisi bulunmaktadır. Çörek otu\n
+            içerisinde bulunan timokinonun kalp rahatsızlıklarına\n
+            yol açan homosistein oranını düşürdüğü belirtilmektedir.\n
+        </item>
+
+        <item>\tŞifası\n\n
+
+            \tŞekerli hastaların sinirlerini teskin eder.\n\n
+            \tiçerisinde rosmarinik asit, fenolik asitler,\n
+            flavonoidler içerir. Ayrıca K vitamini ve A vitamininin\n
+            bitksel kaynağı olan beta-karoten içerir.\n\n
+            \tGüçlü bir antioksidan ve anti-inflamatuar olarak bilinir.\n
+            İltihaplı romatizma ( romatoid artrit gibi ) iltihaplı \n
+            durumların yanı sıra; bronşiyal astım ve aterosklereoz için\n
+            tavsiye edilir. Ayrıca; daha öncede belirttiğimiz gibi; \n
+            ada çayı; kekik ve biberiye baharatları; doğal birer\n
+            besin koruyucudur ve besinlerin raf ömrünü uzatmak için\n
+            pek çok kimyasaldan daha etkili oldukları saptanmıştır.\n\n
+            \tMide krampları ve sindirim sistemi sorunlarına iyi gelir.\n
+            Soğuk Algınlığı, grip ve bronşit hastalıkları için çayı içilirse\n
+            iyi gelir. Ayrıca toksinleri atar.Ayrıca; çayı yapılırken açığa\n
+            çıkan buhar solunursa sinüsleri ve akciğeri temizler. Buharın\n
+            kaçmasını önlemek için bir havlu örtebilirsiniz.\n\n
+            \tÇayı soğutulup içilirse ishali keser. Soğuk adaçayı\n
+            kesik ve yaraları üstüne konursa rahatlama sağlar.\n
+            Ayrıca; migren ve bağ ağrıları için alın ve boyun\n
+            gibi bölgelere kompres yapılırsa bu ağrıları keser.\n\n
+
+        </item>
+
+        <item>\tŞifası\n\n
+
+            \tAntioksidan, anti mikrobiyal, anti ülser ve ağrı\n
+            kesici özelliklere sahiptir. Kalp damar, böbrek ve \n
+            kemik sağlığı için faydalıdır.\n\n
+            \tIsırgan otunun en önemli sağlık yararları arasında vücudu\n
+            detoksifiye etme, metabolik verimi arttırma, bağışıklık \n
+            sistemini arttırma, dolaşımını artırma, enerji seviyelerini \n
+            iyileştirme, menstrüasyon yönetimi, menopoz semptomlarını en\n
+            aza indirme ve cilt bakımına yardımcı olma yeteneği bulunmaktadır.\n
+            Böbrek ve safra kesesi sağlığını koruma, inflamasyonu azaltma, kas \n
+            kütlesini arttırma, hormonal aktiviteyi düzenleme, diyabeti önleme,\n
+            kan basıncını düşürme, hemoroidleri yatıştırma ve solunum koşullarını \n
+            iyileştirme gücüne sahiptir. \n\n
+            \tIsırgan otu dişil sağlığını etkileyen çok sayıda aktif bileşene sahiptir.\n
+            Ağrılı adet öncesi belirtiler için, büzüşme kabiliyetinden dolayı \n
+            menstrüasyon sırasında kan akışını en aza indirirken kramp ve \n
+            şişkinlikten kurtulmaya yardımcı olur. Menopoza giren kadınlar için ısırgan\n
+            otu geçişi hafifleterek restoratif olarak işlev görebilir.\n\n
+            \tIsırgan otu, saç derisini besleyerek saçların daha sağlıklı görünmesini \n
+            sağlamaktadır. Isırgan otunun içeriğindeki silis ve kükürt, saçların daha \n
+            bakımlı, parlak ve sağlıklı görünmesini sağlıyor. Isırgan otu saç \n
+            dökülmelerinin tedavisinde en çok kullanılan yöntemlerden biridir.\n\n
+
+        </item>
+
+        <item>\tŞifası\n\n
+
+            \tZencefil, mide ağrısına ve mide bulantısına karşı etkili olmasının\n
+            yanı sıra, mide ve bağırsaklardaki gazı söktürür. Diareyi (ishal)\n
+            önler ve bağırsak bozukluklarını giderir. Hamilelik, hareket \n
+            (taşıt tutması, deniz tutması vb.) hastalığı ve kemoterapiden kaynaklanan\n
+            mide bulantısı ve kusmaya iyi geldiği bilinmektedir. Ayrıca, bağırsaklardaki\n
+            düz kasları rahatlatıp, yiyeceklerin bağırsaklar boyunca hareket etmesini\n
+            sağlayarak kabızlığı önlemektedir. Bunların dışında;İ Mide ülseri mide zarında\n
+            oluşan ağrılı yaralardır ve hazımsızlık, halsizlik, mide ekşimesi ve karın \n
+            rahatsızlığı gibi semptomlara neden olur. Çeşitli çalışmalar zencefilin mide \n
+            ülseri oluşumunu önlemeye yardımcı olabileceğini ortaya koymuştur.\n\n
+            \tZencefil, iltihabı azaltmak ve iltihaplanma durumlarını tedavi etmek için \n
+            yüzyıllardır kullanılmaktadır. Zencefilin ayrıca, osteoartrit ile ilişkili\n
+            iltihabı tedavi etmek için etkili olduğu bulunmuştur.\n\n
+            \tZencefilin diğer olası kullanımları arasında kolesterolün düşürülmesi,\n
+            kanın pıhtılaşma riskinin azaltılması ve sağlıklı kan şekeri seviyelerinin\n
+            korunmasına yardımcı olması sayılabilir.\n\n
+        </item>
+
+        <item>tŞifası\n\n
+
+            \tÖksürüğe iyi gelir: Anti-enflamatuar özelliği sayesinde çay olarak \n
+            tüketildiğinde boğaz ağrısına iyi gelir. İçeriğinde meyan kökü bulunan \n
+            öksürük şurupları ve damlaları etkilidir.\n\n
+            Vücudun strese karşı direncini arttırır: Meyan kökü stresle ilişkili\n
+            hormon seviyelerini düzenlemeye yardımcıdır. Menopoz ve PMS \n
+            (regl öncesi sendromu) semptomlarını azaltır: Meyan kökünün \n
+            fitoöstrojenik niteliği sayesinde kadınlarda östrojen benzeri bir \n
+            etkiye sahiptir. Menopoz döneminde sıcak basması dahil, hormonal \n
+            problemlerin tedavisi için doğal bir seçenektir. Günde bir meyan \n
+            kapsülü hormon üretimini dengelemeye ve kontrol etmeye yardımcı \n
+            olabilir. Aynı zamanda adet öncesi sinirlilik, şişkinlik, ağrı ve\n
+            krampların rahatlatılmasında meyan kökü çayı oldukça etkilidir.\n\n
+            Solunum sistemini temizler, balgam söktürücüdür: Bronşit gibi \n
+            solunum yolu enfeksiyonlarını temizlemeye ve vücudun sağlıklı \n
+            bir mukus üretmesine yardımcı olabilir.\n\n
+            \tMide – bağırsak sorunlarını yatıştırır:\n
+            Meyan kökü içindeki yatıştırıcı maddeler, sindirim sistemini \n
+            rahatlatır ve mide ekşimesi, mide bulantısı, mide ağrısı, \n
+            besin zehirlenmesi ve hazımsızlık için doğal bir ilaçtır.\n\n
+
+        </item>
+
+        <item>tŞifası\n\n
+
+            \tAloe Vera sindirim sistemini kuvvetlendirir.\n
+            Mide rahatsızlıklarını en aza indirmektedir.\n
+            Cilt derisi üzerinde kompres bazlı tedavi unsuru haline gelen\n
+            bu bitki, yıpranmış hücreleri yenilerken, onarma ve nemlendirme\n
+            amaçlı da kullanılabilmektedir.\n\n
+            Aloe vera yağı veya aloe vera sabunu cilde uygulandığında özellikle\n
+            kuru ciltlerde sık karşılaşılan dökülme ve kızarıklık sorunlarını\n
+            iyileştirmeyi sağlar.\n\n
+            Yanıklar, deri iltihaplanmaları ve güneş ışınlarının zararlı etkileri\n
+            sonucu oluşan yanıklar aloe veranın bileşenleri sayesinde tedavi\n
+            edilmektedir. Kolon kanseri riskini azaltır.Bağırsak hastalıkları\n
+            tedavisinde kullanılır. Bağırsak mantarlarını giderir.\n\n
+
+            Böbrekleri hastalıklardan koruma etkisine sahip olan aloe veranın\n
+            vücuttaki enzimleri depolama özelliğine sahip olduğu bilinmektedir.\n
+            Enfeksiyon oluşumunu engeller.\n
+            Metabolizmayı hızlandırır.\n
+            Kana oksijen aşılayan aloe vera bitkisinin iltihap problemlerinde\n
+            de tedavi edici yapıya sahip olduğu gözlemlenmiştir.\n
+            Aloe vera akne tedavisinde kullanılır.\n
+            Güneş yanığına faydalıdır. Antioksidan özelliği sayesinde\n
+            cilt yanıklarını hızlı şekilde tedavi eder.\n
+            Cildin yaşlanmasını önler.\n
+            Aloe vera bitkisi kanser tümörlerinin oluşmasını başlangıç \n
+            aşamasında engelleyebilir.\n
+            Kolesterol seviyesini dengede tutar.\n
+            Kalp damar sağlığına faydalıdır.\n
+
+        </item>
+
+        <item>\tŞifası\n\n
+
+            \tPapatyanın antienflamatuar özelliği cildi hafif sıkılaştırıcı\n
+            etkiye sahiptir. Özellikle soğuk algınlığı, bronşit ve üst solunum\n
+            yolları hastalıklarının tedavisinde faydalıdır. Bitkisel ilaç olarak\n
+            kullanıldığı gibi çay formunda tüketilebilir. Kurutulmuş ot olarak, \n
+            sindirim sistemini uyarıcı etkisi olduğu için iştah kaybı için \n
+            kullanılabilir ve gastrit, ishal, karaciğer ve safra kesesi şikayetleri\n
+            gibi sindirim sistemi sorunlarının tedavisi için önerilmektedir.\n\n
+            \tBirçok çalışmada papatya çayının adet kramplarını azalttığı \n
+            gözlenmiştir. Örneğin, 2010 yılında yapılan bir araştırmada, \n
+            kadınlar bir ay boyunca papatya çayı tüketmişler ve araştırmacılar\n
+            adet kramplarında belirgin bir azalma tespit etmişlerdir. Ayrıca \n
+            çalışmadaki kadınlar, ağrıya eşlik eden endişe ve sıkıntılarında\n
+            da azalma olduğunu belirtmişlerdir.
+
+        </item>
+
+        <item>\tŞifası\n\n
+
+            \t Güçlü bir antibiyoktik olan sarımsak enfeksiyonlara karşı\n
+            savaşarak bağışıklık sistemini güçlendirir.\n\n
+            Kalp dostu olan sarımsak, kan dolaşımını hızlandırarak kalp \n
+            krizi ve felç geçirmeye neden olabilecek damar tıkanıklıklarının\n
+            önüne geçer.
+            Kansere yakalanma riskini azaltır.\n
+            Pankreas ve kolon kanserini önleyici özelliği vardır.\n
+            Kanserli hücrelerin gelişimini yavaşlatır.\n
+            Alzheimer hastalığına iyi gelir.\n
+            Kan şekeri seviyesini düşürür.\n
+            Atardamar kireçlenmesinin önüne geçer.Kandaki kolesterol\n
+            düzeyini düşürür.Yüksek tansiyonu düşürür.\n\n
+            \tBağırsak kurtları ve vücutta bulunan diğer parazitleri\n
+            öldürür.Akciğer, karaciğer, safra kesesi ve kalp gibi \n
+            önemli organları güçlendirir.İdrar söktürücü özelliği vardır.\n
+            Kalbi beslyene kroner damarları genişletir.\n
+            Kalp adelelerini güçlendirir.\n
+            Kabızlığı önler.
+        </item>
+
+        <item>\tŞifası\n\n
+
+            \t Nane çayının buharını solumak burun tıkanıklığını\n
+            giderir ve sinüsleri açar\n
+            Boğaz kuruluğuna iyi gelir.Gaz gidericidir.Safra taşı\n
+            çözer.Mide bulantısını alır.Kusmayı geçirir\n\n
+            Mide ekşimesini azaltır.Sindirime yardımcı olur\n\n
+            Ağız kokusunu alır.Kas ağrılarını hafifletir\n\n
+            Kronik ağrıyı azaltır\n\n
+            Soğuk algınlığının daha çabuk geçmesini sağlar\n\n
+            Alerjik öksürüğe iyi gelir\n\n
+            Astıma iyi gelir\n\n
+            Stresi azaltır\n\nNane, hafif acı tadı ve kokusuyla \n
+            iştah açar, sindirim sistemini rahatlatır, hazmı \n
+            kolaylaştırır, mide ve bağırsak gazlarını giderir,\n
+            mide ağrılarına karşı fayda sağlar.
+            C vitamini yönünden zengindir\n\n
+            Antioksidan etkisi vardır\n\n\n\n
+
+        </item>
+
+        <item>tŞifası\n\n
+
+            \t Esanslı kokusuyla hafızayı güçlendirir ve konsantrasyonu \n
+            artırır. Bu yönüyle adaçayı ile benzerlik gösterir.\n\n
+            Kaynamış biberiye çayının buharını solumak baş ağrısını \n
+            giderir. Özellikle migren kaynaklı yaşanan ağrıların \n
+            dindirilmesi için biberiye çayı tüketilmesi önerilir.\n
+
+            Antioksidan özelliğiyle bağışıklık sistemini güçlendirir.\n
+            Kanser ve benzeri bağışıklık sistemine savaş açan \n
+            hastalıklardan korunmayı sağlar. Özellikle meme kanseri \n
+            riskini önemli ölçüde azalttığı bilinir.\n\n
+            Hazımsızlık, kabızlık gibi sindirim problemlerini önler.\n
+            Diüretik bir etkiye sahiptir. Bunun yanı sıra vücuttaki \n
+            ödemin atılmasını kolaylaştırır.\n\n
+            Solunum yollarını açmasından ötürü sinüzit benzeri \n
+            hastalıkların tedavisinde kullanılır.n\n\n
+
+        </item>
+        <item>tŞifası\n\n
+
+            \t drar söktürücü etkisi bulunuyor. Bu nedenle maydanoz,\n
+            böbrek taşı, safra kesesi ve idrar yolu enfeksiyonlarında\n
+            yardımcıdır.\n\n
+            Sağlıklı bir vücut, sıvıyı muhafaza eder ancak ödem gibi \n
+            sıvı birikmesi sonucunda vücut şişiyor. Ödem sorununuz \n
+            varsa maydanoz suyu içebilirsiniz. Birkaç çay kaşığı bile\n
+            rahatlamanızı sağlıyor. 1 bardak kaynar suya maydanoz \n
+            saplarını ekleyin. Bu, toksinlerin vücuttan atılmasına \n
+            yardımcı oluyor. Maydanoz suyu detoks programlarında bulunuyor.\n
+            Ancak zayıflamak uğruna bilinçsizce aşırı miktarda tüketilen \n
+            maydanoz suyu sizi kilo konusunda yanıltabilir.\n
+
+            Yaprakları ve sapı antiseptik olup gaz giderici etkisi vardır.\n
+            Araştırmalara göre, diyabeti olanlarda kan şekeri düzeyini \n
+            düşürmeye yardımcı olduğu kanıtlandı. Ancak araştırmalar sürüyor.\n\n
+
+        </item>
+        <item>tŞifası\n\n
+
+            \t Zekayı ve hafızayı güçlendirir ve zihinsel yorgunluğu \n
+            ve akıl karışıklığını giderir\n
+
+            Arap-Fars geleneğinde çoğu beyin bozukluklarının tedavisinde\n
+            kullanılır. Sinüzit, öksürük, kronik nezle ve ateşli soğuk \n
+            algınlığı tedavisinde yararlanılır.\n
+
+            Depresyon ve anksiyete semptomlarını önler, rahatlatır.\n
+            Baş ağrısı ve migren tedavisinde diğer bitkilerle birlikte\n
+            kullanılır. Kan dolaşımını hızlandırır. Damar tıkanıklığını önler.\n
+            İdrar yolu enfeksiyonu ve vajinal enfeksiyonların tedavisine \n
+            yardımcı olur.\n
+            Kan kanseri ve başta pek çok kanser türünün gelişmesini engeller.\n
+            Cilt yaralarının iyileşmesini hızlandırır.\n
+            Mide bulantısını giderir.\n
+            Romatizmal ağrılara iyi gelir.\n
+            Uykusuzluğa iyi gelir.\n
+            Hazımsızlığa, kabızlığa ve mide gazına iyi gelir.\n
+            Sindirim sistemini düzenler ve bağırsakların daha \n
+            aktif çalışmasını sağlar.\n\n
+
+        </item>
+
+    </string-array>
+</resources>
